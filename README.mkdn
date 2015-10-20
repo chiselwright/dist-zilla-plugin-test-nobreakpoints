@@ -44,6 +44,8 @@ This module was **heavily** cribbed from [Dist::Zilla::Plugin::Test::EOL](https:
 
 # SEE ALSO
 
+- Test::NoBreakpoints
+
 # AUTHOR
 
 Chisel <chisel@chizography.net>
