@@ -4,7 +4,7 @@ Dist::Zilla::Plugin::Test::NoBreakpoints - Author tests making sure no debugger 
 
 # VERSION
 
-version 0.0.1
+version 0.0.2
 
 # DESCRIPTION
 
